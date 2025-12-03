@@ -1,5 +1,5 @@
 # Hey, I'm Kostyantyn Pshenychnyy
-**Tech-obsessed engineer — if it can be automated, consider it done
+Tech-obsessed engineer — if it can be automated, consider it done
 
 ---
 
