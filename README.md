@@ -1,21 +1,21 @@
-# 👋 Hey, I'm Kostyantyn Pshenychnyy
+# Hey, I'm Kostyantyn Pshenychnyy
 **Tech Lead & ML Engineer** based in San Francisco, CA
 
-### Tech-obsessed engineer — if it can be automated, consider it done ⚡
+### Tech-obsessed engineer — if it can be automated, consider it done
 
 ---
 
-### 🔧 What I Do
+### What I Do
 
-- 🏗️ **System Architecture** — Designed 60+ microservices using DDD
-- 🤖 **ML Engineering** — Building on-prem RAG systems, knowledge graphs, AI agents
-- 🧠 **MLOps & Model Training** — End-to-end ML pipelines, model deployment, monitoring
-- 👥 **Technical Leadership** — Scaling teams and engineering culture from zero
-- ☁️ **Cloud & Infrastructure** — AWS, Azure, GCP, Kubernetes, Terraform
+- **System Architecture** — Designed 60+ microservices using DDD
+- **ML Engineering** — Building on-prem RAG systems, knowledge graphs, AI agents
+- **MLOps & Model Training** — End-to-end ML pipelines, model deployment, monitoring
+- **Technical Leadership** — Scaling teams and engineering culture from zero
+- **Cloud & Infrastructure** — AWS, Azure, GCP, Kubernetes, Terraform
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -59,7 +59,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-k--pshenychnyy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-pshenychnyy/)
 
