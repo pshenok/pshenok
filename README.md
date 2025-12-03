@@ -1,7 +1,5 @@
 # Hey, I'm Kostyantyn Pshenychnyy
-**Tech Lead & ML Engineer** based in San Francisco, CA
-
-### Tech-obsessed engineer — if it can be automated, consider it done
+**Tech-obsessed engineer — if it can be automated, consider it done
 
 ---
 
