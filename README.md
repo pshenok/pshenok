@@ -5,7 +5,7 @@ Tech-obsessed engineer — if it can be automated, consider it done
 
 ### What I Do
 
-- **System Architecture** — Designed 60+ microservices using DDD
+- **System Architecture** — Designed system with 60+ microservices using DDD
 - **ML Engineering** — Building on-prem RAG systems, knowledge graphs, AI agents
 - **MLOps & Model Training** — End-to-end ML pipelines, model deployment, monitoring
 - **Technical Leadership** — Scaling teams and engineering culture from zero
