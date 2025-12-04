@@ -1,18 +1,6 @@
 # Hey, I'm Kostyantyn Pshenychnyy
 Tech-obsessed engineer — if it can be automated, consider it done
 
----
-
-### What I Do
-
-- **System Architecture** — Designed system with 60+ microservices using DDD
-- **ML Engineering** — Building on-prem RAG systems, knowledge graphs, AI agents
-- **MLOps & Model Training** — End-to-end ML pipelines, model deployment, monitoring
-- **Technical Leadership** — Scaling teams and engineering culture from zero
-- **Cloud & Infrastructure** — AWS, Azure, GCP, Kubernetes, Terraform
-
----
-
 ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
