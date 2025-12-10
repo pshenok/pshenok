@@ -48,6 +48,7 @@ Tech-obsessed engineer — if it can be automated, consider it done
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-k--pshenychnyy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-pshenychnyy/)
+[![X](https://img.shields.io/badge/X-@pshenok-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pshenok)
 
 ---
 
